@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hello, i just want to tell you something
 You are so fkn sexy mommma!
